@@ -103,6 +103,13 @@
 
 ---
 
+### WakaTime — Weekly Coding
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### Activity
 
 <div align="center">
@@ -166,6 +173,11 @@
 ### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Request Queuing Saved Our API from Melting Down (And Cut Costs by 60%)](https://medium.com/stackademic/request-queuing-saved-our-api-from-melting-down-and-cut-costs-by-60-89aa99067b55)
+- [Retrieval-Augmented Generation: The Architecture That Made AI Actually Useful in Production](https://medium.com/stackademic/retrieval-augmented-generation-the-architecture-that-made-ai-actually-useful-in-production-5c0748287e4d)
+- [Why DuckDB Crushed Our 500GB Data Pipeline (And How It'll Crush Yours Too)](https://medium.com/javascript-in-plain-english/why-duckdb-crushed-our-500gb-data-pipeline-and-how-itll-crush-yours-too-05947ff47ffe)
+- [Don't Repeat Yourself: The Power of Axios Interceptors in a Modern React App](https://medium.com/javascript-in-plain-english/dont-repeat-yourself-the-power-of-axios-interceptors-in-a-modern-react-app-b90999cce578)
+- [Prompt Engineering vs Fine-Tuning: I Wasted 3 Weeks Learning This the Hard Way](https://medium.com/stackademic/prompt-engineering-vs-fine-tuning-i-wasted-3-weeks-learning-this-the-hard-way-376fdfdf94c7)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -174,7 +186,19 @@
 
 <div align="center">
 
-[![Credly](https://img.shields.io/badge/Credly-Badges%20%26%20Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ronik-mehul-dedhia)
+<a href="https://www.credly.com/badges/79ded056-c019-4095-b169-7d04757ca351/public_url" target="_blank"><img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="110" alt="Building RAG Apps Using MongoDB" title="Building RAG Apps Using MongoDB — MongoDB" /></a>
+<a href="https://www.credly.com/badges/9d51efb7-1a07-4343-b9ec-f9ab06e69118/public_url" target="_blank"><img src="https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="110" alt="Deep Learning Specialization" title="Deep Learning Specialization — Coursera" /></a>
+<a href="https://www.credly.com/badges/0cea1bdf-26b1-4611-8927-1fc3f29b77e3/public_url" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="110" alt="Oracle Cloud Infrastructure Foundations 2020" title="Oracle Cloud Infrastructure Foundations 2020 — Oracle" /></a>
+<a href="https://www.credly.com/badges/20477f6c-6d6c-43d9-9538-f8fdca9acf06/public_url" target="_blank"><img src="https://images.credly.com/images/0f467dff-9212-4684-9f74-44da8879e625/MTA-Introduction_to_Programming_Using_Python.png" width="110" alt="MTA: Python Certified 2020" title="MTA: Introduction to Programming Using Python — Microsoft" /></a>
+<a href="https://www.credly.com/badges/1d5df40a-4aaa-4147-804c-6fb54f1d0a8d/public_url" target="_blank"><img src="https://images.credly.com/images/90b92982-adc0-4826-afeb-455be8609899/blob" width="110" alt="Applied Data Science with Python - Level 2" title="Applied Data Science with Python Level 2 — IBM" /></a>
+<a href="https://www.credly.com/badges/331caab4-5e4a-45ee-986d-08ca9ef9bba9/public_url" target="_blank"><img src="https://images.credly.com/images/f5bb6420-710c-4508-bd1f-df3a9d3fafb0/blob" width="110" alt="Data Analysis Using Python" title="Data Analysis Using Python — IBM" /></a>
+<a href="https://www.credly.com/badges/3f128340-a478-4012-abd5-2c1cf0326d3c/public_url" target="_blank"><img src="https://images.credly.com/images/90baa00c-2d2b-4544-8c11-77c99068728a/blob" width="110" alt="Data Visualization Using Python" title="Data Visualization Using Python — IBM" /></a>
+<a href="https://www.credly.com/badges/7b185b5b-e00c-493b-9590-33b87161e3e5/public_url" target="_blank"><img src="https://images.credly.com/images/b40db465-587f-45eb-a854-af8630a630e7/blob" width="110" alt="Python for Data Science" title="Python for Data Science — IBM" /></a>
+<a href="https://www.credly.com/badges/e8bff1ef-1d7a-4cb0-8d26-dd32b85c6d30/public_url" target="_blank"><img src="https://images.credly.com/images/2fde0bfe-ca31-4e31-860b-a109eeb86c05/blob" width="110" alt="Data Science Foundations Level 2" title="Data Science Foundations Level 2 (V2) — IBM" /></a>
+<a href="https://www.credly.com/badges/1da62796-5cd8-4638-8cbd-2712e299985f/public_url" target="_blank"><img src="https://images.credly.com/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob" width="110" alt="Data Science Foundations Level 1" title="Data Science Foundations Level 1 — IBM" /></a>
+<a href="https://www.credly.com/badges/6eef2ba9-7434-4ddc-99f6-9dbf8736754d/public_url" target="_blank"><img src="https://images.credly.com/images/3e42e90a-da56-4680-9f9b-140e8a1dd6d4/blob" width="110" alt="Data Science Methodologies" title="Data Science Methodologies — IBM" /></a>
+<a href="https://www.credly.com/badges/6e43a0c2-5049-42f1-9159-90a75229050c/public_url" target="_blank"><img src="https://images.credly.com/images/aa8b8df6-98d7-4bf5-9546-dd4c1103d718/blob" width="110" alt="Data Science Tools" title="Data Science Tools — IBM" /></a>
+<a href="https://www.credly.com/badges/a641084d-ae92-4b3b-9f02-7fea6d68623d/public_url" target="_blank"><img src="https://images.credly.com/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" width="110" alt="Data Science Orientation" title="Data Science Orientation — IBM/Coursera" /></a>
 
 </div>
 
