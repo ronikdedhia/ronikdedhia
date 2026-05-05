@@ -189,13 +189,7 @@
 
 ### Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [Request Queuing Saved Our API from Melting Down (And Cut Costs by 60%)](https://medium.com/stackademic/request-queuing-saved-our-api-from-melting-down-and-cut-costs-by-60-89aa99067b55)
-- [Retrieval-Augmented Generation: The Architecture That Made AI Actually Useful in Production](https://medium.com/stackademic/retrieval-augmented-generation-the-architecture-that-made-ai-actually-useful-in-production-5c0748287e4d)
-- [Why DuckDB Crushed Our 500GB Data Pipeline (And How It'll Crush Yours Too)](https://medium.com/javascript-in-plain-english/why-duckdb-crushed-our-500gb-data-pipeline-and-how-itll-crush-yours-too-05947ff47ffe)
-- [Don't Repeat Yourself: The Power of Axios Interceptors in a Modern React App](https://medium.com/javascript-in-plain-english/dont-repeat-yourself-the-power-of-axios-interceptors-in-a-modern-react-app-b90999cce578)
-- [Prompt Engineering vs Fine-Tuning: I Wasted 3 Weeks Learning This the Hard Way](https://medium.com/stackademic/prompt-engineering-vs-fine-tuning-i-wasted-3-weeks-learning-this-the-hard-way-376fdfdf94c7)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->[Chunking Strategies &amp; Context Window Tradeoffs: The Decision That Makes or Breaks Your RAG System](https://blog.stackademic.com/chunking-strategies-context-window-tradeoffs-the-decision-that-makes-or-breaks-your-rag-system-61b2af1e0431?source=rss-81ef066f0042------2)[Retrieval-Augmented Generation: The Architecture That Made AI Actually Useful in Production](https://blog.stackademic.com/retrieval-augmented-generation-the-architecture-that-made-ai-actually-useful-in-production-5c0748287e4d?source=rss-81ef066f0042------2)[Embeddings: The Silent Engine Behind Modern AI Applications](https://blog.stackademic.com/embeddings-the-silent-engine-behind-modern-ai-applications-b4c57875127f?source=rss-81ef066f0042------2)[Zero-Shot, Few-Shot, and In-Context Learning: The Prompting Techniques Every AI Engineer Should…](https://blog.stackademic.com/zero-shot-few-shot-and-in-context-learning-the-prompting-techniques-every-ai-engineer-should-02876cf05c9b?source=rss-81ef066f0042------2)[Prompt Engineering vs Fine-Tuning: I Wasted 3 Weeks Learning This the Hard Way](https://blog.stackademic.com/prompt-engineering-vs-fine-tuning-i-wasted-3-weeks-learning-this-the-hard-way-376fdfdf94c7?source=rss-81ef066f0042------2)<!-- BLOG-POST-LIST:END -->
 
 ---
 
