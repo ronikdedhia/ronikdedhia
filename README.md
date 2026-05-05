@@ -10,9 +10,10 @@
 
 ### About Me
 
-- Building scalable fintech products at **FlexiLoans**
-- Full-stack engineer with a focus on **React**, **Node.js**, and **Python**
-- Passionate about clean code, performance, and developer experience
+- Building production-grade AI and full-stack systems at **FlexiLoans** — from RAG pipelines to fintech infrastructure
+- Published researcher in **Computer Vision** and **AI-assisted wellness** (IEEE & IJSRCSEIT)
+- Writing about engineering, AI, and systems on **Medium** — 10+ articles, thousands of reads
+- 🤝 Open to collaborations on **AI / fintech projects**
 
 ---
 
@@ -86,6 +87,19 @@
 
 ---
 
+### Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**news-ai-backend**](https://github.com/ronikdedhia/news-ai-backend) | AI-powered news aggregation and analysis backend | TypeScript |
+| [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | Real-time restaurant operations and analytics platform | TypeScript |
+| [**Sign-Language-Converter**](https://github.com/ronikdedhia/Sign-Language-Converter) | CNN-based ASL recognition and generation system — IEEE research project | JavaScript |
+| [**YogaPedia**](https://github.com/ronikdedhia/YogaPedia) | Technology-assisted yoga guidance platform — IEEE research project | HTML |
+| [**Study-Buddy**](https://github.com/ronikdedhia/Study-Buddy) | AI study assistant built in 24 hours at hackathon to help students improve scores | JavaScript |
+| [**Kuva-Flutter-App**](https://github.com/ronikdedhia/Kuva-Flutter-App) | Cross-platform mobile app built with Flutter | Dart |
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -100,13 +114,6 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronikdedhia&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
----
-
-### WakaTime — Weekly Coding
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
@@ -170,6 +177,16 @@
 
 ---
 
+### Featured Articles
+
+- [Don't Repeat Yourself: The Power of Axios Interceptors in a Modern React App](https://medium.com/javascript-in-plain-english/dont-repeat-yourself-the-power-of-axios-interceptors-in-a-modern-react-app-b90999cce578)
+- [Building an Intelligent Auto-Dialer System with Advanced Campaign Management in Angular](https://medium.com/javascript-in-plain-english/building-an-intelligent-auto-dialer-system-with-advanced-campaign-management-in-angular-9f8df2f7f273)
+- [From Junior Dev to Problem Solver: The Mental Shift That Changes Everything](https://medium.com/javascript-in-plain-english/from-junior-dev-to-problem-solver-the-mental-shift-that-changes-everything-1646534b4d65)
+- [Request Queuing Saved Our API from Melting Down (And Cut Costs by 60%)](https://medium.com/stackademic/request-queuing-saved-our-api-from-melting-down-and-cut-costs-by-60-89aa99067b55)
+- [Why DuckDB Crushed Our 500GB Data Pipeline (And How It'll Crush Yours Too)](https://medium.com/javascript-in-plain-english/why-duckdb-crushed-our-500gb-data-pipeline-and-how-itll-crush-yours-too-05947ff47ffe)
+
+---
+
 ### Recent Writing
 
 <!-- BLOG-POST-LIST:START -->
@@ -213,5 +230,13 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-ronikdedhia-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ronikdedhia)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ronikdedhia-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ronikdedhia)
 [![GitHub](https://img.shields.io/badge/GitHub-ronikdedhia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronikdedhia)
+
+</div>
+
+---
+
+<div align="center">
+
+💬 I'm open to collaborating on **AI**, **fintech**, and **open-source** projects — feel free to reach out!
 
 </div>
