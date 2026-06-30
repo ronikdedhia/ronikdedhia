@@ -197,6 +197,8 @@
 
 <div align="center">
 
+<a href="https://www.credly.com/badges/a8b67f6c-d2d6-445d-a1b6-22ffe4c43060/public_url" target="_blank"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="110" alt="AWS Certified AI Practitioner" title="AWS Certified AI Practitioner — Amazon Web Services" /></a>
+<a href="https://www.credly.com/badges/9bdb635e-a7e9-4598-a4de-b720b38977f8/public_url" target="_blank"><img src="https://images.credly.com/images/082c8d0c-5232-4597-b6c4-6bebcc4f3046/blob" width="110" alt="AI Skills Fest 2026" title="AI Skills Fest 2026 — Microsoft" /></a>
 <a href="https://www.credly.com/badges/79ded056-c019-4095-b169-7d04757ca351/public_url" target="_blank"><img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="110" alt="Building RAG Apps Using MongoDB" title="Building RAG Apps Using MongoDB — MongoDB" /></a>
 <a href="https://www.credly.com/badges/9d51efb7-1a07-4343-b9ec-f9ab06e69118/public_url" target="_blank"><img src="https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="110" alt="Deep Learning Specialization" title="Deep Learning Specialization — Coursera" /></a>
 <a href="https://www.credly.com/badges/0cea1bdf-26b1-4611-8927-1fc3f29b77e3/public_url" target="_blank"><img src="https://images.credly.com/images/697cf123-74b0-4356-9055-9973471d26d6/03_Oracle_Cloud_Infrastructure_Foundations_Associate.png" width="110" alt="Oracle Cloud Infrastructure Foundations 2020" title="Oracle Cloud Infrastructure Foundations 2020 — Oracle" /></a>
