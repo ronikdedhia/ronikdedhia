@@ -95,8 +95,9 @@
 | [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — HR queries, IT tickets, RAG over internal docs | Python |
 | [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | AI-powered restaurant analytics — review scraping, multi-signal LLM pipeline, trend analysis | TypeScript |
 | [**DailyBytes**](https://github.com/ronikdedhia/DailyBytes) | AI news aggregator — summarization, sentiment, NER, personalized ranking, TTS briefing | TypeScript |
+| [**YogaPedia-v2**](https://github.com/ronikdedhia/YogaPedia-v2) | Real-time AI yoga pose detection + plan drafter — LangChain.js + Groq, JS rewrite of the original IEEE-published YogaPedia | JavaScript |
+| [**ASL-Chat**](https://github.com/ronikdedhia/ASL-Chat) | Bidirectional ASL ↔ English chat — sign to compose, read or watch messages as ASL video — LangChain.js + Groq | JavaScript |
 | [**Study-Buddy**](https://github.com/ronikdedhia/Study-Buddy) | Full-stack student productivity platform — React web, React Native mobile, Node API, Flask ML services | JavaScript |
-| [**YogaPedia**](https://github.com/ronikdedhia/YogaPedia) | Real-time yoga pose detection and asana recommendation — IEEE published | HTML |
 
 ---
 
