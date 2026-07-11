@@ -91,12 +91,12 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**news-ai-backend**](https://github.com/ronikdedhia/news-ai-backend) | AI-powered news aggregation and analysis backend | TypeScript |
-| [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | Real-time restaurant operations and analytics platform | TypeScript |
-| [**Sign-Language-Converter**](https://github.com/ronikdedhia/Sign-Language-Converter) | CNN-based ASL recognition and generation system — IEEE research project | JavaScript |
-| [**YogaPedia**](https://github.com/ronikdedhia/YogaPedia) | Technology-assisted yoga guidance platform — IEEE research project | HTML |
-| [**Study-Buddy**](https://github.com/ronikdedhia/Study-Buddy) | AI study assistant built in 24 hours at hackathon to help students improve scores | JavaScript |
-| [**Kuva-Flutter-App**](https://github.com/ronikdedhia/Kuva-Flutter-App) | Cross-platform mobile app built with Flutter | Dart |
+| [**EarningsLens**](https://github.com/ronikdedhia/EarningsLens) | AI-powered earnings call analysis for NSE/BSE equities — RAG, sentiment, red-flag detection | TypeScript |
+| [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — HR queries, IT tickets, RAG over internal docs | Python |
+| [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | AI-powered restaurant analytics — review scraping, multi-signal LLM pipeline, trend analysis | TypeScript |
+| [**DailyBytes**](https://github.com/ronikdedhia/DailyBytes) | AI news aggregator — summarization, sentiment, NER, personalized ranking, TTS briefing | TypeScript |
+| [**Study-Buddy**](https://github.com/ronikdedhia/Study-Buddy) | Full-stack student productivity platform — React web, React Native mobile, Node API, Flask ML services | JavaScript |
+| [**YogaPedia**](https://github.com/ronikdedhia/YogaPedia) | Real-time yoga pose detection and asana recommendation — IEEE published | HTML |
 
 ---
 
