@@ -92,7 +92,8 @@
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
 | [**EarningsLens**](https://github.com/ronikdedhia/EarningsLens) | AI-powered earnings call analysis for NSE/BSE equities — RAG, sentiment, red-flag detection | TypeScript | — |
-| [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — HR queries, IT tickets, RAG over internal docs | Python | [Demo](https://nexus-ten-murex.vercel.app/) |
+| [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — agentic tool-calling over HR/IT/finance ops, RAG auto-resolve, SLA escalation, Slack alerts, ROI dashboard | Python | [Demo](https://nexus-ten-murex.vercel.app/) |
+| [**Twinfolio**](https://github.com/ronikdedhia/TwinFolio) | Financial digital twin — Monte Carlo goal projections, revealed-preference risk profiling, agentic RAG chat | JavaScript | [Demo](https://twin-folio.vercel.app/) |
 | [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | AI-powered restaurant analytics — review scraping, multi-signal LLM pipeline, trend analysis | TypeScript | — |
 | [**DailyBytes**](https://github.com/ronikdedhia/DailyBytes) | AI news aggregator — summarization, sentiment, NER, personalized ranking, TTS briefing | TypeScript | — |
 | [**YogaPedia-v2**](https://github.com/ronikdedhia/YogaPedia-v2) | Real-time AI yoga pose detection + plan drafter — LangChain.js + Groq, JS rewrite of the original IEEE-published YogaPedia | JavaScript | [Demo](https://yoga-pedia-v2.vercel.app/) |
