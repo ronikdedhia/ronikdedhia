@@ -91,6 +91,7 @@
 
 | Project | Description | Stack | Live Demo |
 |---------|-------------|-------|-----------|
+| [**Sarthi**](https://github.com/ronikdedhia/sarthi) | ONDC multi-modal trip planner — real signed Beckn protocol across ride-hailing/metro/intercity domains, leg-graph itinerary ranking, async booking + live tracking, Gemini natural-language trip requests | Python, TypeScript | [Demo](https://sarthi-drab.vercel.app/) |
 | [**EarningsLens**](https://github.com/ronikdedhia/EarningsLens) | AI-powered earnings call analysis for NSE/BSE equities — RAG, sentiment, red-flag detection | TypeScript | — |
 | [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — agentic tool-calling over HR/IT/finance ops, RAG auto-resolve, SLA escalation, Slack alerts, ROI dashboard | Python | [Demo](https://nexus-ten-murex.vercel.app/) |
 | [**Twinfolio**](https://github.com/ronikdedhia/TwinFolio) | Financial digital twin — Monte Carlo goal projections, revealed-preference risk profiling, agentic RAG chat | JavaScript | [Demo](https://twin-folio.vercel.app/) |
