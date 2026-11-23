@@ -1,178 +1,57 @@
-<div align="center">
+## Hi, I'm Ronik Dedhia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ronik+%F0%9F%91%8B;Software+Engineer+%40+FlexiLoans;Building+scalable+fintech+products)](https://git.io/typing-svg)
+Software Development Engineer 2 at **FatakPay**, Mumbai. I build backend systems for insurance and credit products, and ship AI and trading projects on the side.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ronikdedhia&color=6366F1&style=flat-square&label=Profile+Views)
-
-</div>
+[Portfolio](https://dev-portfolio-ronik.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ronik-dedhia/) · [Medium](https://medium.com/@ronikdedhia) · [Email](mailto:ronikdedhia@gmail.com)
 
 ---
 
-### About Me
+### About
 
-- Building production-grade AI and full-stack systems at **FlexiLoans** — from RAG pipelines to fintech infrastructure
-- Published researcher in **Computer Vision** and **AI-assisted wellness** (IEEE & IJSRCSEIT)
-- Writing about engineering, AI, and systems on **Medium** — 10+ articles, thousands of reads
-- 🤝 Open to collaborations on **AI / fintech projects**
+- **FatakPay (SDE 2, Sep 2026 – present):** core backend and microservices for FatakSecure insurance and credit products. Built a multi-tenant insurance engine that unifies 10+ products, and a Go-based workflow engine for motor insurance with 4 insurers integrated.
+- **FlexiLoans (SDE 1, Jul 2024 – Sep 2026):** owned the loan origination system for MSME lending. ₹60Cr+ in new disbursements, 65% fewer fraudulent approvals, 20% lower cloud costs. Star Performer Award.
+- **Research:** two published computer-vision papers (IEEE, IJSRCSEIT).
+- **Writing:** engineering, AI and systems on [Medium](https://medium.com/@ronikdedhia).
 
----
+### Tech
 
-### Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-black?style=flat-square&logo=fastapi)
-
-**ML / AI**
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-
----
-
-### Research & Publications
-
-- **[Individualized Guidance in Yoga Practice: A Comparative Analysis of Technology Solutions](https://ieeexplore.ieee.org/document/10739307)**
-  *IEEE — 2024*
-
-- **[American Sign Language Recognition and Generation: A CNN-based Approach](https://ijsrcseit.com/home/issue/view/article.php?id=CSEIT23902103)**
-  *IJSRCSEIT — 2023*
+- **Languages:** Python, TypeScript, JavaScript, Go, SQL
+- **Backend:** FastAPI, Django, Node.js, NestJS, Express
+- **Frontend:** React, Next.js, Angular, Tailwind CSS
+- **Data:** PostgreSQL, MongoDB, Redis, Qdrant
+- **AI:** LangChain, RAG, LLM tool-calling, TensorFlow, OpenCV
+- **Cloud:** AWS, Docker, GitHub Actions, Datadog
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stack | Live Demo |
-|---------|-------------|-------|-----------|
-| [**Sarthi**](https://github.com/ronikdedhia/sarthi) | ONDC multi-modal trip planner — real signed Beckn protocol across ride-hailing/metro/intercity domains, leg-graph itinerary ranking, async booking + live tracking, Gemini natural-language trip requests | Python, TypeScript | [Demo](https://sarthi-drab.vercel.app/) |
-| [**EarningsLens**](https://github.com/ronikdedhia/EarningsLens) | AI-powered earnings call analysis for NSE/BSE equities — RAG, sentiment, red-flag detection | TypeScript | — |
-| [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant — agentic tool-calling over HR/IT/finance ops, RAG auto-resolve, SLA escalation, Slack alerts, ROI dashboard | Python | [Demo](https://nexus-ten-murex.vercel.app/) |
-| [**Twinfolio**](https://github.com/ronikdedhia/TwinFolio) | Financial digital twin — Monte Carlo goal projections, revealed-preference risk profiling, agentic RAG chat | JavaScript | [Demo](https://twin-folio.vercel.app/) |
-| [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | AI-powered restaurant analytics — review scraping, multi-signal LLM pipeline, trend analysis | TypeScript | — |
-| [**DailyBytes**](https://github.com/ronikdedhia/DailyBytes) | AI news aggregator — summarization, sentiment, NER, personalized ranking, TTS briefing | TypeScript | — |
-| [**YogaPedia-v2**](https://github.com/ronikdedhia/YogaPedia-v2) | Real-time AI yoga pose detection + plan drafter — LangChain.js + Groq, JS rewrite of the original IEEE-published YogaPedia | JavaScript | [Demo](https://yoga-pedia-v2.vercel.app/) |
-| [**ASL-Chat**](https://github.com/ronikdedhia/ASL-Chat) | Bidirectional ASL ↔ English chat — sign to compose, read or watch messages as ASL video — LangChain.js + Groq | JavaScript | [Demo](https://asl-chat-eight.vercel.app/) |
-| [**Study-Buddy**](https://github.com/ronikdedhia/Study-Buddy) | Full-stack student productivity platform — React web, React Native mobile, Node API, Flask ML services | JavaScript | — |
+| Project | What it does | Stack | Demo |
+|---------|--------------|-------|------|
+| **TickTrade** (private) | Algo-trading system for NSE and crypto: live quote streaming, a dozen paper strategy books, and a weekly walk-forward backtest that decides which strategies earn Telegram trade calls | Python, Nuvama API, Oracle Cloud | — |
+| [**EarningsLens**](https://github.com/ronikdedhia/EarningsLens) | Earnings-call analysis for NSE/BSE equities: RAG over transcripts, FinBERT sentiment, red-flag detection, quarter-over-quarter diffs | TypeScript, Next.js, Qdrant | [Demo](https://earnings-lens.vercel.app/) |
+| [**Nexus**](https://github.com/ronikdedhia/Nexus) | Enterprise AI assistant: agentic tool-calling over HR/IT/finance ops, RAG auto-resolve, SLA escalation, Slack alerts | Python, FastAPI, LangChain | [Demo](https://nexus-ten-murex.vercel.app/) |
+| [**RestoPulse**](https://github.com/ronikdedhia/RestoPulse) | Restaurant analytics: scrapes Google Maps and Zomato reviews, multi-signal LLM pipeline, week-over-week trend diffs | TypeScript, Express, BullMQ | [Demo](https://resto-pulse-frontend.vercel.app/) |
+| [**DailyBytes**](https://github.com/ronikdedhia/DailyBytes) | AI news aggregator: summarization, sentiment, NER, personalized ranking, TTS briefing | TypeScript, Next.js, Drizzle | [Demo](https://daily-bytes-ten.vercel.app/) |
 
 ---
 
-### GitHub Stats
+### Research
 
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronikdedhia&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ronikdedhia&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ronikdedhia&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
----
-
-### Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronikdedhia&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ronikdedhia&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### LeetCode
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ronikdedhia?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/ronikdedhia/)
-
-</div>
-
----
-
-### Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronikdedhia/ronikdedhia/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronikdedhia/ronikdedhia/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ronikdedhia/ronikdedhia/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-### Featured Articles
-
-- [Don't Repeat Yourself: The Power of Axios Interceptors in a Modern React App](https://medium.com/javascript-in-plain-english/dont-repeat-yourself-the-power-of-axios-interceptors-in-a-modern-react-app-b90999cce578)
-- [Building an Intelligent Auto-Dialer System with Advanced Campaign Management in Angular](https://medium.com/javascript-in-plain-english/building-an-intelligent-auto-dialer-system-with-advanced-campaign-management-in-angular-9f8df2f7f273)
-- [From Junior Dev to Problem Solver: The Mental Shift That Changes Everything](https://medium.com/javascript-in-plain-english/from-junior-dev-to-problem-solver-the-mental-shift-that-changes-everything-1646534b4d65)
-- [Request Queuing Saved Our API from Melting Down (And Cut Costs by 60%)](https://medium.com/stackademic/request-queuing-saved-our-api-from-melting-down-and-cut-costs-by-60-89aa99067b55)
-- [Why DuckDB Crushed Our 500GB Data Pipeline (And How It'll Crush Yours Too)](https://medium.com/javascript-in-plain-english/why-duckdb-crushed-our-500gb-data-pipeline-and-how-itll-crush-yours-too-05947ff47ffe)
+- **[Individualized Guidance in Yoga Practice: A Comparative Analysis of Technology Solutions](https://ieeexplore.ieee.org/document/10739307)** · IEEE, 2024
+- **[American Sign Language Recognition and Generation: A CNN-based Approach](https://ijsrcseit.com/home/issue/view/article.php?id=CSEIT23902103)** · IJSRCSEIT, 2023
 
 ---
 
 ### Recent Writing
 
-<!-- BLOG-POST-LIST:START -->[MCP Servers: The Missing Piece That Makes AI Agents Actually Useful in Real Workflows](https://javascript.plainenglish.io/mcp-servers-the-missing-piece-that-makes-ai-agents-actually-useful-in-real-workflows-9bdac450e36a?source=rss-81ef066f0042------2)[Stop Calling It “Hallucination.” The Real Word Changes How You Build Around It.](https://javascript.plainenglish.io/stop-calling-it-hallucination-the-real-word-changes-how-you-build-around-it-c917a0e3765f?source=rss-81ef066f0042------2)[The Django Signal That Silently Fired Twice and Sent Every Applicant Two Confirmation Emails](https://blog.stackademic.com/the-django-signal-that-silently-fired-twice-and-sent-every-applicant-two-confirmation-emails-5cd5e21d93e9?source=rss-81ef066f0042------2)[I Paid $4,200 in AWS Surprises. Here’s the Cost Audit That Fixed It.](https://blog.stackademic.com/i-paid-4-200-in-aws-surprises-heres-the-cost-audit-that-fixed-it-2ae2e709e1c8?source=rss-81ef066f0042------2)[I Turned Down a Promotion. Here’s Why That Was the Right Call for My Career, Not the Wrong One.](https://javascript.plainenglish.io/i-turned-down-a-promotion-heres-why-that-was-the-right-call-for-my-career-not-the-wrong-one-94dfb40aff6c?source=rss-81ef066f0042------2)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [MCP Servers: The Missing Piece That Makes AI Agents Actually Useful in Real Workflows](https://javascript.plainenglish.io/mcp-servers-the-missing-piece-that-makes-ai-agents-actually-useful-in-real-workflows-9bdac450e36a?source=rss-81ef066f0042------2)
+- [Stop Calling It “Hallucination.” The Real Word Changes How You Build Around It.](https://javascript.plainenglish.io/stop-calling-it-hallucination-the-real-word-changes-how-you-build-around-it-c917a0e3765f?source=rss-81ef066f0042------2)
+- [The Django Signal That Silently Fired Twice and Sent Every Applicant Two Confirmation Emails](https://blog.stackademic.com/the-django-signal-that-silently-fired-twice-and-sent-every-applicant-two-confirmation-emails-5cd5e21d93e9?source=rss-81ef066f0042------2)
+- [I Paid $4,200 in AWS Surprises. Here’s the Cost Audit That Fixed It.](https://blog.stackademic.com/i-paid-4-200-in-aws-surprises-heres-the-cost-audit-that-fixed-it-2ae2e709e1c8?source=rss-81ef066f0042------2)
+- [I Turned Down a Promotion. Here’s Why That Was the Right Call for My Career, Not the Wrong One.](https://javascript.plainenglish.io/i-turned-down-a-promotion-heres-why-that-was-the-right-call-for-my-career-not-the-wrong-one-94dfb40aff6c?source=rss-81ef066f0042------2)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -187,27 +66,5 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/RonikDedhia-6975/247889753D2509D5?sharingId=EE3CD6C3D0AC32F9" target="_blank"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-general-badge-social.png" width="110" alt="SQL AI Developer Associate" title="Microsoft Certified: SQL AI Developer Associate (DP-800) — Microsoft" /></a>
 <a href="https://www.credly.com/badges/79ded056-c019-4095-b169-7d04757ca351/public_url" target="_blank"><img src="https://images.credly.com/images/2aff887d-ee1e-479f-b26f-dcb20d647bd6/blob" width="110" alt="Building RAG Apps Using MongoDB" title="Building RAG Apps Using MongoDB — MongoDB" /></a>
 <a href="https://www.credly.com/badges/9d51efb7-1a07-4343-b9ec-f9ab06e69118/public_url" target="_blank"><img src="https://images.credly.com/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png" width="110" alt="Deep Learning Specialization" title="Deep Learning Specialization — Coursera" /></a>
-
-</div>
-
----
-
-### Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ronik--dedhia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronik-dedhia/)
-[![Medium](https://img.shields.io/badge/Medium-ronikdedhia-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ronikdedhia)
-[![Kaggle](https://img.shields.io/badge/Kaggle-ronikdedhia-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ronikdedhia)
-[![HackerRank](https://img.shields.io/badge/HackerRank-ronikdedhia-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ronikdedhia)
-[![GitHub](https://img.shields.io/badge/GitHub-ronikdedhia-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronikdedhia)
-
-</div>
-
----
-
-<div align="center">
-
-💬 I'm open to collaborating on **AI**, **fintech**, and **open-source** projects — feel free to reach out!
 
 </div>
