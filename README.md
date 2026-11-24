@@ -51,8 +51,7 @@ I design and scale regulated fintech systems in Python and Node.js: insurance pl
 
 ### Recent Writing
 
-<!-- BLOG-POST-LIST:START -->
-- [MCP Servers: The Missing Piece That Makes AI Agents Actually Useful in Real Workflows](https://javascript.plainenglish.io/mcp-servers-the-missing-piece-that-makes-ai-agents-actually-useful-in-real-workflows-9bdac450e36a?source=rss-81ef066f0042------2)
+<!-- BLOG-POST-LIST:START -->- [MCP Servers: The Missing Piece That Makes AI Agents Actually Useful in Real Workflows](https://javascript.plainenglish.io/mcp-servers-the-missing-piece-that-makes-ai-agents-actually-useful-in-real-workflows-9bdac450e36a?source=rss-81ef066f0042------2)
 - [Stop Calling It “Hallucination.” The Real Word Changes How You Build Around It.](https://javascript.plainenglish.io/stop-calling-it-hallucination-the-real-word-changes-how-you-build-around-it-c917a0e3765f?source=rss-81ef066f0042------2)
 - [The Django Signal That Silently Fired Twice and Sent Every Applicant Two Confirmation Emails](https://blog.stackademic.com/the-django-signal-that-silently-fired-twice-and-sent-every-applicant-two-confirmation-emails-5cd5e21d93e9?source=rss-81ef066f0042------2)
 - [I Paid $4,200 in AWS Surprises. Here’s the Cost Audit That Fixed It.](https://blog.stackademic.com/i-paid-4-200-in-aws-surprises-heres-the-cost-audit-that-fixed-it-2ae2e709e1c8?source=rss-81ef066f0042------2)
