@@ -11,12 +11,12 @@ I design and scale regulated fintech systems in Python and Node.js: insurance pl
 ### Experience
 
 **FatakPay** · Software Development Engineer 2 · Sep 2026 – present
-- Architected the multi-tenant FatakSecure insurance engine (FastAPI, PostgreSQL): 10+ insurance products behind one API layer, serving 1,000+ quotes a day.
+- Architected the multi-tenant FatakSecure insurance engine (FastAPI, PostgreSQL): 10+ insurance products behind one API layer, serving 20,000+ quotes a day.
 - Re-platformed motor insurance onto GraphFlow, a Go-based graph workflow engine orchestrating 10 insurers. Onboarding a new insurer fell from 1 month to 3 days, and quote-to-issuance latency by 75%.
 
 **FlexiLoans** · Software Development Engineer 1 · Jul 2024 – Sep 2026
 - Owned the pre-approval credit-decision stage of the loan origination system and onboarded 3 co-lending partners.
-- Fraud review that cut fraudulent approvals by 65%; bank statement analysis processing 1.5L statements a month with 45% faster turnaround. Star Performer Award.
+- Fraud review that cut fraudulent approvals by 65%; bank statement analysis processing 5L+ statements a month with 45% faster turnaround. Star Performer Award.
 
 ---
 
