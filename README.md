@@ -24,7 +24,7 @@ I design and scale regulated fintech systems in Python and Node.js: insurance pl
 
 | Project | What it does | Stack | Links |
 |---------|--------------|-------|-------|
-| **TickTrade** | 24/7 quantitative trading platform for NSE and crypto running 12 strategy books. A weekly walk-forward backtest decides which strategies earn live trade calls; 5 of 12 failed out of sample and stay paper-only. | Python, Nuvama API, Oracle Cloud | Private |
+| **TickTrade** | 24/7 quantitative trading platform for NSE and crypto running 12 strategy books. A weekly walk-forward backtest decides which strategies earn live trade calls; 5 of 12 failed out of sample and stay paper-only. | Python, Nuvama API, Oracle Cloud | [Results](https://ticktrade-results.vercel.app/) |
 | **EarningsLens** | RAG over NSE earnings-call transcripts with cited answers, sentiment drift, red-flag detection and quarter-over-quarter diffs | TypeScript, Next.js, Express, Qdrant, Groq | [Demo](https://earnings-lens.vercel.app/) · [Code](https://github.com/ronikdedhia/EarningsLens) |
 | **Nexus** | Workplace AI agent that picks from 11 tools: policy RAG with citations, ticketing, leave, org chart, reports. Slack integration and SLA escalation | Python, FastAPI, LangChain, Qdrant | [Demo](https://nexus-ten-murex.vercel.app/) · [Code](https://github.com/ronikdedhia/Nexus) |
 | **Daily Bytes** | AI news platform on a LangGraph pipeline of retryable steps: summaries, sentiment, entities, bias scores, Telegram bot | TypeScript, Express, LangGraph, Groq | [Demo](https://daily-bytes-ten.vercel.app/) · [Code](https://github.com/ronikdedhia/DailyBytes) |
